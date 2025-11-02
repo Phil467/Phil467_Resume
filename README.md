@@ -5,12 +5,17 @@
 
 ---
 
+## PROFESSIONAL SUMMARY
+Initially an engineer in geosciences, my taste for creative expression gradually guided me towards numerical methods and software development for over 10 years. I have become familiar with nearly 15 programming languages, in the fields of web and desktop development, data analysis, scientific computing and performance. I have developed numerous tools for various applications both in the workplace and during my university career, where I held key positions. Additionally, nurturing a strong interest in mathematical research, I have discovered several effective techniques for finding the roots of simple or complex equations. I have also practiced developing an arithmetic library for computing infinitely large numbers. I would like to leverage my skills in ambitious projects.
+
+---
+
 ## PROFESSIONAL EXPERIENCE
 
 ### DEVELOPER & PROMOTER, CSIGMA PROJECT  
 **CSIGMA** — *Edmonton, AB*  
 *Oct 2025 – Present*  
-- C++ API for omni-language AI-powered applications (Source code available on my Github)
+- C++ API for omni-language AI-powered applications
 
 ### GEOPHYSICIST  
 **CABINET TWS SARL** — *Bafoussam, Cameroon*  
@@ -42,11 +47,6 @@ Kaélé, Cameroon — *Jul 2017*
 *Mathematics and Physical Sciences*  
 **Bilingual High School of Penka-Michel**  
 Penka-Michel, Cameroon — *Aug 2014*
-
----
-
-## PROFESSIONAL SUMMARY
-Initially an engineer in geosciences, my taste for creative expression gradually guided me towards numerical methods and software development for over 10 years. I have become familiar with nearly 15 programming languages, in the fields of web and desktop development, data analysis, scientific computing and performance. I have developed numerous tools for various applications both in the workplace and during my university career, where I held key positions. Additionally, nurturing a strong interest in mathematical research, I have discovered several effective techniques for finding the roots of simple or complex equations. I have also practiced developing an arithmetic library for computing infinitely large numbers. I would like to leverage my skills in ambitious projects.
 
 ---
 
